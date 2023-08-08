@@ -1,0 +1,15 @@
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\bin\Debug\net6.0\Desafio_Hotel.exe
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\bin\Debug\net6.0\Desafio_Hotel.deps.json
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\bin\Debug\net6.0\Desafio_Hotel.runtimeconfig.json
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\bin\Debug\net6.0\Desafio_Hotel.dll
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\bin\Debug\net6.0\Desafio_Hotel.pdb
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.csproj.AssemblyReference.cache
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.AssemblyInfoInputs.cache
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.AssemblyInfo.cs
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.csproj.CoreCompileInputs.cache
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.dll
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\obj\Debug\net6.0\refint\Desafio_Hotel.dll
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.pdb
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.genruntimeconfig.cache
+C:\EstudoDIO\MicrosoftDynamics365\Desafio_Hotel\obj\Debug\net6.0\ref\Desafio_Hotel.dll
